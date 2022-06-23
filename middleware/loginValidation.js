@@ -1,6 +1,7 @@
 const emailValidation = (req, res, next) => {
   try {
     const { email } = req.body;
+    console.log(email);
     const emailShape = /\S+@\S+\.\S+/;
     const validate = emailShape.test(email);
     if (typeof email === 'undefined') {
