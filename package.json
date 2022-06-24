@@ -16,11 +16,7 @@
     "prestart": "npx sequelize-cli db:create && npx sequelize-cli db:migrate $",
     "start": "node index.js",
     "drop": "npx sequelize-cli db:drop $",
-    "seed": "npx sequelize-cli db:seed:all $",
-    "test": "jest --runInBand",
-    "test-coverage": "jest --runInBand --coverage",
-    "debug": "nodemon index.js",
-    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json ."
+    "seed": "npx sequelize-cli db:seed:all $"
   },
   "devDependencies": {
     "eslint": "6.8.0",
