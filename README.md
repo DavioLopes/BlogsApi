@@ -7,7 +7,7 @@ Neste projeto, foi desenvolvido um back-end usando `ORM` com o pacote `sequelize
 * Construir endpoints para consumir os models que criar
 * Fazer um `CRUD` com o `ORM`
 
-<h1>Técnologias usadas. 💾</h1>
+<h1>Tecnologias usadas. 💾</h1>
 
 * Projeto desenvolvido em NodeJs, utilizando a biblioteca Express para criação da API RESTful.
 * Sequelize para criação e associação de tabelas MySQL.
@@ -28,7 +28,7 @@ Neste projeto, consegui desenvolver as seguintes habilidades:
 1. Clone o repositório:
 * Usando linha de comando execute o comando: `git clone https://github.com/DavioLopes/BlogsApi.git`
 
-2. Para instalar as dependencias:
+2. Para instalar as dependências:
 * execute o comando: `npm install`
 
 3. Altere o arquivo .env-example para .env
@@ -46,7 +46,7 @@ Neste projeto, consegui desenvolver as seguintes habilidades:
     
 5. Inicialize a API com o comando: `npm start`
 
-6. Abra o navegador de sua preferencia e coloque a URL: `http://localhost:3001/api-docs`
+6. Abra o navegador de sua preferência e coloque a URL: `http://localhost:3001/api-docs`
    Irá aparecer a seguinte tela:
    
    
