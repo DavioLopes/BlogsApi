@@ -47,7 +47,7 @@ Neste projeto, consegui desenvolver as seguintes habilidades:
 5. Inicialize a API com o comando: `npm start`
 
 6. Abra o navegador de sua preferencia e coloque a URL: `http://localhost:3001/api-docs`
-   Irá aparecer a seguinnte tela:
+   Irá aparecer a seguinte tela:
    
    
    ![BlogsApi](https://github.com/DavioLopes/BlogsApi/blob/main/imagens/blogsApi%20rotas.png)
