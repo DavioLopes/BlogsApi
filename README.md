@@ -26,16 +26,16 @@ Neste projeto, consegui desenvolver as seguintes habilidades:
 <h1> Executando aplicação ⌨️</h1>
 
 1. Clone o repositório:
-* Usando linha de comando execute o comando: `git clone https://github.com/DavioLopes/BlogsApi.git`
+   * Usando linha de comando execute o comando: `git clone https://github.com/DavioLopes/BlogsApi.git`
 
 2. Para instalar as dependências:
-* execute o comando: `npm install`
+   * execute o comando: `npm install`
 
 3. Altere o arquivo .env-example para .env
-* Altere os dados de usuário conforme os dados do MySql instalado em sua máquina.
+   * Altere os dados de usuário conforme os dados do MySql instalado em sua máquina.
 
 4. Inicialize o servidor MySQL.
-* Usando o Docker
+   * Usando o Docker
 
     * Inicie um container com a imagem do MySQL:
     * `docker container run --name blogsApi -e MYSQL_ROOT_PASSWORD=suasenha -d -p 3306:3306 mysql`
@@ -54,9 +54,19 @@ Neste projeto, consegui desenvolver as seguintes habilidades:
    
 7. Faça login e use o token para liberar as rotas autenticadas.
 
-![](https://github.com/DavioLopes/BlogsApi/blob/main/imagens/token.png)
+   <details close>
+
+      ![](https://github.com/DavioLopes/BlogsApi/blob/main/imagens/token.png)
+   
+   </details>
 
 8. Cologue o Token na caixa Authorize para liberar as rotas autenticadas.
 
-![](https://github.com/DavioLopes/BlogsApi/blob/main/imagens/authorizations.png)
+   <details close>
+   
+      ![](https://github.com/DavioLopes/BlogsApi/blob/main/imagens/authorizations.png)
+
+   </details>
+
+##
 
