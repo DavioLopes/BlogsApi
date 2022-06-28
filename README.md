@@ -56,7 +56,7 @@ Neste projeto, consegui desenvolver as seguintes habilidades:
 
    <details close>
   
-    <summary>Foto demonstrativa: </summary>
+    <summary>:information_source: Foto demonstrativa: </summary>
   
       ![](https://github.com/DavioLopes/BlogsApi/blob/main/imagens/token.png)
    
@@ -66,7 +66,7 @@ Neste projeto, consegui desenvolver as seguintes habilidades:
 
    <details close>
   
-    <summary>Foto demonstrativa: </summary>
+    <summary>:information_source: Foto demonstrativa: </summary>
   
       ![](https://github.com/DavioLopes/BlogsApi/blob/main/imagens/authorizations.png)
 
