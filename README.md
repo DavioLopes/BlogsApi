@@ -55,7 +55,9 @@ Neste projeto, consegui desenvolver as seguintes habilidades:
 7. Faça login e use o token para liberar as rotas autenticadas.
 
    <details close>
-
+  
+    <summary>Foto demonstrativa: </summary>
+  
       ![](https://github.com/DavioLopes/BlogsApi/blob/main/imagens/token.png)
    
    </details>
@@ -63,7 +65,9 @@ Neste projeto, consegui desenvolver as seguintes habilidades:
 8. Cologue o Token na caixa Authorize para liberar as rotas autenticadas.
 
    <details close>
-   
+  
+    <summary>Foto demonstrativa: </summary>
+  
       ![](https://github.com/DavioLopes/BlogsApi/blob/main/imagens/authorizations.png)
 
    </details>
